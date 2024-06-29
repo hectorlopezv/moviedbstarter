@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-
 import { Typography } from "@mui/material";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { getPopularMovies, resetState } from "../../redux/movies";
