@@ -14,7 +14,7 @@ function* fetchGenres() {
 }
 
 function* fetchSearchMovies(action) {
-    yield delay(200);
+    yield delay(500);
 
     yield put(
         fetchedSearchMovies(yield call(api.searchMovies, action.payload))
@@ -22,6 +22,7 @@ function* fetchSearchMovies(action) {
 }
 
 function* fetchPopularMovies(action) {
+    yield delay(500);
     yield put(
         fetchedPopularMovies(
             yield call(api.getPopularMovies, action.payload)
