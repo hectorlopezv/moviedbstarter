@@ -30,6 +30,9 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # moviedbstarter
 
+### run tests
+npm run test
+Integration/unit test
 
 ### Api key
 VITE_API_KEY

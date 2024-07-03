@@ -2,8 +2,7 @@ import React from 'react';
 import { vi } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import ErrorPage from '../../../src/components/error';
-import { useRouteError, Route } from 'react-router-dom';
-import { renderWithRouter } from '../../testUtils';
+import { useRouteError } from 'react-router-dom';
 
 
 // Mocking react-router-dom
