@@ -13,7 +13,6 @@ const ImgStyled = styled('img')({
 });
 
 const Movie = ({movie, genres}) => {
-
     const formatRuntime = (runtime) => {
         const hours = Math.floor(runtime / 60) + "h";
         const minutes = (runtime % 60) + "m";

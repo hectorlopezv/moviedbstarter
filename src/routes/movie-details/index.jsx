@@ -10,11 +10,9 @@ import Movie from "../../components/movie";
 const MovieDetails = () => {
     const dispatch = useDispatch();
     const params = useParams();
-    console.log({params});
     const {id} = params;
     const  {genres}  = useSelector((store) => store.genres);
     const movie = useSelector((store) => store.movie);
-    console.log({genres, movie})
 
     useEffect(() => {
         dispatch(getMovie(id ? parseInt(id, 10) : 0));

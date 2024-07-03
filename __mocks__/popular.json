@@ -1,0 +1,21 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "id": 786892,
+            "title": "Furiosa: A Mad Max Saga",
+            "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus.",
+            "release_date": "2024-05-22"
+        },
+        {
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions!",
+            "release_date": "2024-06-11"
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}

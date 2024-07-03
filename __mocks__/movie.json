@@ -1,0 +1,504 @@
+{
+    "adult": false,
+    "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+    "belongs_to_collection": {
+        "id": 8945,
+        "name": "Mad Max Collection",
+        "poster_path": "/9U9QmbCDIBhqDShuIxOiS9gjKYz.jpg",
+        "backdrop_path": "/7ECkRbU1OvDCDLxUv5YBBDxfGF3.jpg"
+    },
+    "budget": 168000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.furiosaamadmaxsaga.com",
+    "id": 786892,
+    "imdb_id": "tt12037194",
+    "origin_country": [
+        "AU",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Furiosa: A Mad Max Saga",
+    "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+    "popularity": 6058.314,
+    "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 28382,
+            "logo_path": "/xqE1fjLynj3RaZca9chctZQyfzZ.png",
+            "name": "Kennedy Miller Mitchell",
+            "origin_country": "AU"
+        },
+        {
+            "id": 216687,
+            "logo_path": null,
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-05-22",
+    "revenue": 171338772,
+    "runtime": 149,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Fury is born.",
+    "title": "Furiosa: A Mad Max Saga",
+    "video": false,
+    "vote_average": 7.712,
+    "vote_count": 1596,
+    "recommendations": {
+        "page": 1,
+        "results": [
+            {
+                "backdrop_path": "/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+                "id": 614933,
+                "title": "Atlas",
+                "original_title": "Atlas",
+                "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+                "poster_path": "/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "popularity": 684.583,
+                "release_date": "2024-05-23",
+                "video": false,
+                "vote_average": 6.842,
+                "vote_count": 926
+            },
+            {
+                "backdrop_path": "/gO69ZiK6aj7za3SeaV4D6oPPevc.jpg",
+                "id": 1029955,
+                "title": "Kinds of Kindness",
+                "original_title": "Kinds of Kindness",
+                "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+                "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "popularity": 116.528,
+                "release_date": "2024-05-30",
+                "video": false,
+                "vote_average": 7.035,
+                "vote_count": 243
+            },
+            {
+                "backdrop_path": "/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+                "id": 929590,
+                "title": "Civil War",
+                "original_title": "Civil War",
+                "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+                "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "popularity": 1151.49,
+                "release_date": "2024-04-10",
+                "video": false,
+                "vote_average": 7.015,
+                "vote_count": 1763
+            },
+            {
+                "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
+                "id": 370464,
+                "title": "The Masked Saint",
+                "original_title": "The Masked Saint",
+                "overview": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+                "poster_path": "/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    80,
+                    28
+                ],
+                "popularity": 96.14,
+                "release_date": "2016-01-08",
+                "video": false,
+                "vote_average": 5.357,
+                "vote_count": 63
+            },
+            {
+                "backdrop_path": "/gRApXuxWmO2forYTuTmcz5RaNUV.jpg",
+                "id": 573435,
+                "title": "Bad Boys: Ride or Die",
+                "original_title": "Bad Boys: Ride or Die",
+                "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+                "poster_path": "/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    35
+                ],
+                "popularity": 1715.076,
+                "release_date": "2024-06-05",
+                "video": false,
+                "vote_average": 6.997,
+                "vote_count": 464
+            },
+            {
+                "backdrop_path": "/1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg",
+                "id": 882059,
+                "title": "Boy Kills World",
+                "original_title": "Boy Kills World",
+                "overview": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+                "poster_path": "/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    28,
+                    53,
+                    80,
+                    878
+                ],
+                "popularity": 308.971,
+                "release_date": "2024-04-24",
+                "video": false,
+                "vote_average": 6.86,
+                "vote_count": 328
+            },
+            {
+                "backdrop_path": "/vWzJDjLPmycnQ42IppEjMpIhrhc.jpg",
+                "id": 748783,
+                "title": "The Garfield Movie",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "poster_path": "/tSPsiMHb4edeBKZZjKDmhX18Jbs.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "popularity": 495.292,
+                "release_date": "2024-04-30",
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 195
+            },
+            {
+                "backdrop_path": "/lA6KdSkCTxwzvqzPqxch997RabQ.jpg",
+                "id": 560016,
+                "title": "Monkey Man",
+                "original_title": "Monkey Man",
+                "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+                "poster_path": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "popularity": 133.046,
+                "release_date": "2024-04-03",
+                "video": false,
+                "vote_average": 7.097,
+                "vote_count": 539
+            },
+            {
+                "backdrop_path": "/xg27NrXi7VXCGUr7MG75UqLl6Vg.jpg",
+                "id": 1022789,
+                "title": "Inside Out 2",
+                "original_title": "Inside Out 2",
+                "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+                "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35
+                ],
+                "popularity": 5393.121,
+                "release_date": "2024-06-11",
+                "video": false,
+                "vote_average": 7.732,
+                "vote_count": 1202
+            },
+            {
+                "backdrop_path": "/7KcwyOQL6hC6VJxN7LBB1p2GRaY.jpg",
+                "id": 1197406,
+                "title": "El Halcón: Sed de Venganza",
+                "original_title": "El Halcón: Sed de Venganza",
+                "overview": "Criminals control Mexico and wrestling is now illegal. A retired fighter and a policewoman join forces to stop the perfidious criminal who has kidnapped her son.",
+                "poster_path": "/nUCkSoWsL9L77HdLFLCTiEyJlO7.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "es",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "popularity": 432.454,
+                "release_date": "2023-10-25",
+                "video": false,
+                "vote_average": 8.8,
+                "vote_count": 32
+            },
+            {
+                "backdrop_path": "/11G6N5zW0KykVS0EcNKeXHUmQj8.jpg",
+                "id": 1136318,
+                "title": "Battle Over Britain",
+                "original_title": "Battle Over Britain",
+                "overview": "A young pilot, fresh out of training, is called to join a Flight while they wait for the call to scramble. Throughout a single day, he witnesses the skies of southern England filled with deadly dog fights, and after every exhausting battle the men return to their dispersal hut, only to find another of their number missing. Unwilling to surrender, the pilot and his comrades unite to take to the skies once more, determined to defend not only the airfield, but their entire country.",
+                "poster_path": "/8htJ7keZTwa08aC9OKyiqaq1cNJ.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    10752
+                ],
+                "popularity": 453.236,
+                "release_date": "2023-12-01",
+                "video": false,
+                "vote_average": 7.032,
+                "vote_count": 63
+            },
+            {
+                "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+                "id": 746036,
+                "title": "The Fall Guy",
+                "original_title": "The Fall Guy",
+                "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+                "poster_path": "/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    28,
+                    35
+                ],
+                "popularity": 655.595,
+                "release_date": "2024-04-24",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 1444
+            },
+            {
+                "backdrop_path": "/tq8COKsI99Bivjd4CZIYVGoKcIx.jpg",
+                "id": 937287,
+                "title": "Challengers",
+                "original_title": "Challengers",
+                "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+                "poster_path": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "popularity": 154.923,
+                "release_date": "2024-04-18",
+                "video": false,
+                "vote_average": 7.199,
+                "vote_count": 1076
+            },
+            {
+                "backdrop_path": "/cqf3o3UrL7icGN0cTd1w7Fx0C38.jpg",
+                "id": 1008409,
+                "title": "The Bikeriders",
+                "original_title": "The Bikeriders",
+                "overview": "After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+                "poster_path": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "popularity": 128.883,
+                "release_date": "2024-06-19",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 133
+            },
+            {
+                "backdrop_path": "/tkHQ7tnYYUEnqlrKuhufIsSVToU.jpg",
+                "id": 437342,
+                "title": "The First Omen",
+                "original_title": "The First Omen",
+                "overview": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+                "poster_path": "/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    27
+                ],
+                "popularity": 443.785,
+                "release_date": "2024-04-03",
+                "video": false,
+                "vote_average": 6.8,
+                "vote_count": 599
+            },
+            {
+                "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+                "id": 76341,
+                "title": "Mad Max: Fury Road",
+                "original_title": "Mad Max: Fury Road",
+                "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+                "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "popularity": 448.999,
+                "release_date": "2015-05-13",
+                "video": false,
+                "vote_average": 7.604,
+                "vote_count": 22007
+            },
+            {
+                "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+                "id": 653346,
+                "title": "Kingdom of the Planet of the Apes",
+                "original_title": "Kingdom of the Planet of the Apes",
+                "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+                "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "popularity": 2419.072,
+                "release_date": "2024-05-08",
+                "video": false,
+                "vote_average": 6.868,
+                "vote_count": 1283
+            },
+            {
+                "backdrop_path": "/uL5DoOuMho1QY7OK5IqacYH9QHK.jpg",
+                "id": 9659,
+                "title": "Mad Max",
+                "original_title": "Mad Max",
+                "overview": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+                "poster_path": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "en",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "popularity": 121.56,
+                "release_date": "1979-04-12",
+                "video": false,
+                "vote_average": 6.692,
+                "vote_count": 4234
+            },
+            {
+                "backdrop_path": "/qclL4zkea2cu7O0i6QE3X5b4nbc.jpg",
+                "id": 912520,
+                "title": "The Nature of Love",
+                "original_title": "Simple comme Sylvain",
+                "overview": "Sophia is a philosophy professor in Montreal and has lived as a couple with Xavier for 10 years. Sylvain is a carpenter in the Laurentians and must renovate their country house. When Sophia meets Sylvain for the first time, it’s love at first sight. Opposites attract, but can it last?",
+                "poster_path": "/u4IbLxbb1p9X9pMAUn4ddJztO60.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "fr",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "popularity": 11.579,
+                "release_date": "2023-09-22",
+                "video": false,
+                "vote_average": 7.368,
+                "vote_count": 110
+            },
+            {
+                "backdrop_path": "/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg",
+                "id": 1025463,
+                "title": "Bionic",
+                "original_title": "Biônicos",
+                "overview": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+                "poster_path": "/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg",
+                "media_type": "movie",
+                "adult": false,
+                "original_language": "pt",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "popularity": 529.912,
+                "release_date": "2024-05-28",
+                "video": false,
+                "vote_average": 5.6,
+                "vote_count": 95
+            }
+        ],
+        "total_pages": 2,
+        "total_results": 40
+    }
+}

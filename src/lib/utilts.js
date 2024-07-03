@@ -9,5 +9,5 @@ export function mapGenres(
         return result;
     }, {});
 
-    return genIds.map((id) => genresMap[id]).join(", ");
+    return genIds?.map((id) => genresMap[id]).join(", ");
 }

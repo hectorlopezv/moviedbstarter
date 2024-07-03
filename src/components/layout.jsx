@@ -2,7 +2,7 @@
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { CssBaseline } from "@mui/material";
 import { Link } from "react-router-dom";
-import logoImg from '/vite.svg';
+import logoImg from '/public/vite.svg';
 import { styled } from "@mui/system";
 import SearchMoviesSuggestion from "./search-movie-suggestion";
 
